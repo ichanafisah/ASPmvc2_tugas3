@@ -1,9 +1,9 @@
 ﻿using System.Web.Mvc;
 using System.Web.Security;
-using Asp_mvc_2.Models.ViewModel;
-using Asp_mvc_2.Models.EntityManager;
+using asp_mvc_2.Models.ViewModel;
+using asp_mvc_2.Models.EntityManager;
 
-namespace Asp_mvc_2.Controllers
+namespace asp_mvc_2.Controllers
 {
     public class AccountController : Controller
     {
